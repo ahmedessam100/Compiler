@@ -10,6 +10,7 @@ What things you need to install the software and how to install them
 ```
 Extract Folder
 ```
+cd Compiler-master
 python3 Compiler.py [Example_name found in PASCAL EXAMPLES]
 ```
 Then Check Machine_code.asm
