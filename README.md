@@ -1,2 +1,2 @@
 # Compiler
-SIC/XE Machine Compiler
+SIC/XE Machine Compil
