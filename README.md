@@ -6,6 +6,10 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them 
 ```
  install Python 3
- pip3 install pythonds
- 
+ pip3 install pythonds 
 ```
+Extract Folder
+```
+python3 Compiler.py [Example_name found in PASCAL EXAMPLES]
+```
+Then Check Machine_code.asm
